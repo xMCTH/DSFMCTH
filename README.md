@@ -1,3 +1,3 @@
 # DSFMCTH
-DSF Vorlesung 6. Semester Bachelor;
-Nice!
+DSF Vorlesung 6. Semester Bachelor
+
