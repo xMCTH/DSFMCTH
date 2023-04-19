@@ -23,3 +23,5 @@ The Topics are:
 14. Statistics_with_Python
 15. HypothesisTesting_with_Python
 16. Review-and-ML
+
+link to a [Friendly Dude](https://github.com/Samtomsa/DSF) aka. my group partner
